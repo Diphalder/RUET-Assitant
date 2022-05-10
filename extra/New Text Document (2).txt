@@ -1,0 +1,15 @@
+H#u]?J[^1|Fm#okA
+
+
+
+
+DB Name	DB User	DB Host	 
+id18898705_ruet	id18898705_root	localhost
+
+
+
+$dataBaseName="id18898705_ruet";
+$host='localhost';
+$user='id18898705_root';
+$pw='H#u]?J[^1|Fm#okA' ; 
+$con = mysqli_connect($host,$user,$pw, $dataBaseName);
