@@ -1,0 +1,91 @@
+body {
+    background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)), url(img.svg);
+    background-size: cover;
+    background-position: center;
+}
+
+.box {
+    max-width: 500px;
+    float: none;
+    margin: 100px auto;
+    background: rgba(255, 255, 255, 0.803);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.list {
+    float: none;
+    margin: 10px auto;
+    background: rgba(255, 255, 255, 0.803);
+    padding: 10px;
+    border-radius: 10px;
+    min-width: max-content;
+}
+
+.tbl {
+    float: none;
+    margin: 50px auto;
+    background: rgb(255, 255, 255);
+    padding: 50px;
+}
+
+.logout-button {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    left: 100%;
+}
+
+.table-bordered {
+    background-color: azure;
+    text-align: center;
+    border-radius: 10px;
+    min-width: max-content;
+}
+
+.attendanceTakeTable {
+    background-color: azure;
+    margin: 20px;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.btn-group {
+    margin: 5px;
+}
+
+.photo_profile {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.minibox {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(240, 255, 255, 0.642);
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.tableBox {
+    min-width: max-content;
+}
+
+.table-wrapper {
+    max-height: 500px;
+    overflow-y: scroll;
+    margin: 20px;
+}
+
+.outer-wrapper {
+    float: none;
+    margin: 10px auto;
+    background: rgba(255, 255, 255, 0.803);
+    padding: 10px;
+    border-radius: 10px;
+}
